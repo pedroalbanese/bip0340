@@ -1,4 +1,4 @@
-package ecgdsa
+package bip0340
 
 import (
 	"crypto/elliptic"
