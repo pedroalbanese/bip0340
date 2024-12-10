@@ -40,3 +40,4 @@ func OidFromNamedCurve(curve elliptic.Curve) (asn1.ObjectIdentifier, bool) {
 
 	return asn1.ObjectIdentifier{}, false
 }
+
